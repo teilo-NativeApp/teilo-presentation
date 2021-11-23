@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"
+    />
+
+    <title>reveal.js</title>
+
+    <link rel="stylesheet" href="dist/reset.css" />
+    <link rel="stylesheet" href="dist/reveal.css" />
+    <link rel="stylesheet" href="dist/theme/moon.css" />
+
+    <!-- Theme used for syntax highlighted code -->
+    <link rel="stylesheet" href="plugin/highlight/monokai.css" />
+  </head>
+  <body>
+    <div class="reveal">
+      <div class="slides">
+        <!-- <section data-background-color='rgb(151, 223, 240)'> -->
+          <section> 
+         <h1 class='title'>
+           Teilo </h1>
+          </section>
+        </section>
+        <section class="slide">
+          <section>
+            <h3>bad mood after splitting costs ?</h3>
+          </section>
+          <section>
+            <iframe src="https://giphy.com/embed/kN3GNb34H5x14wnYKe" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/primevideo-mcqueen-stevemcqueen-alexwheatle-kN3GNb34H5x14wnYKe"></a></p>
+          </section>
+        </section>
+        <section class="slide">
+       <h3>a calculator app to split expense  
+         <span class="fragment">equally</span> between groups/partners</h3>
+          </section>
+          <section class="slide">
+            <h3 class="fragment animated scale-up"
+            data-animated-duration="2000" 
+	          data-animated-iterations="1" 
+	          data-animated-fill="forwards">what makes it unique ?</h3>
+          </section>
+          <section>
+          <h3>a calculation based on <span class="fragment" ><h2>income</h2></span>
+          </h3>
+          </section>
+          <section>
+            <iframe src="https://giphy.com/embed/OK27wINdQS5YQ" width="480" height="338" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/mind-seinfeild-OK27wINdQS5YQ"></a></p>
+          </section>
+          <section>
+            <h3>Demonstration Time</h3>
+          </section>
+      </div>
+    </div>
+
+    <script src="dist/reveal.js"></script>
+    <script src="plugin/notes/notes.js"></script>
+    <script src="plugin/markdown/markdown.js"></script>
+    <script src="plugin/highlight/highlight.js"></script>
+    <script>
+
+  // initialization & config
+      Reveal.initialize({
+        hash: true,
+        slideNumber : true ,
+        // Learn about plugins: https://revealjs.com/plugins/
+        plugins: [RevealMarkdown, RevealHighlight, RevealNotes],
+        dependencies: [
+    // Other plugins
+    {src: 'node_modules/revealjs-animated/dist/revealjs-animated.js',
+    async: true}
+  ]
+      });
+    </script>
+  </body>
+</html>
