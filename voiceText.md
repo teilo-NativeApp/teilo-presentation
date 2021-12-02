@@ -7,7 +7,7 @@ teilo →→→
 “ did you ever had bad mood after splitting costs?” ↓↓↓
 
 →→→
-
+a
 “ we might have found a solution”
 
 “We built an app ↓↓↓ for organizing the flatsharing life equally between groups/partners”
@@ -24,17 +24,18 @@ Jonathan Shine, he sees the bug before you
 
 Tim Jungmann, his javascript is readable like a charm
 
-Norman Metz, he his calming you down when you're completely lost in the code
+Norman Metz, he his calming you down when you're completely lost in the code →→→
 
 the main technologies we used were :
 
-react native nodejs express
+react native nodejs expressjs monogoose
 
 we used react-native because we really wanted to build a mobile app
+React native was the way to go and what we wanted discover
 
-one of the challenge was
+one of the challenges was
 
-to code the right algorithm for the splitting cost calculation.With the support of the teachers, day after day, thinking and rethinking, the architecture of the app progressed.
+to code the right algorithm for the splitting cost calculation.We started small, day after day, thinking and rethinking, the architecture of the app progressed.
 
 We learned a lot about team communication, discovered tech related content but last but not least we didn't forget to have fun.
 
