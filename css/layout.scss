@@ -108,3 +108,33 @@
   width: 10rem !important;
   height: 30rem !important;
 }
+
+.team {
+  display: flex;
+  flex-direction: row;
+
+  .img-jonathan {
+    border-radius: 100%;
+    width: 15rem;
+    height: 15rem;
+  }
+
+  .img-tim {
+    border-radius: 100%;
+    width: 15rem;
+    height: 15rem;
+  }
+
+  .img-norman {
+    border-radius: 100%;
+  }
+
+  .member__name {
+  }
+}
+
+.tech-stack_icon {
+  width: 10rem;
+  height: 10rem;
+  padding: 4rem;
+}
