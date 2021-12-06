@@ -45,7 +45,7 @@ last but not least we didn't forget to have fun. ↓↓↓
 
 What we plan to do further in the future :
 
-implementing the pushing notifications feature.
+implementing the pushing notifications feature and android styling.
 
 We would researching first & then break down the task building the functionality step by step.
 
