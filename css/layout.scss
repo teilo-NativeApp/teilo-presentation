@@ -169,12 +169,18 @@
     }
   }
 
-  .member__name {
-  }
+  // .member__name {
+  // }
 }
 
-.tech-stack_icon {
-  width: 10rem;
-  height: 10rem;
-  padding: 4rem;
+.wrapper-tech {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+
+  .tech-stack_icon {
+    width: 10rem;
+    height: 10rem;
+    padding: 4rem;
+  }
 }

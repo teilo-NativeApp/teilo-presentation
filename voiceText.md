@@ -10,9 +10,9 @@ did you ever had bad mood after splitting costs? ↓↓↓
 
 we might have found a solution
 
-We built an app ↓↓↓ for organizing the flatsharing life equally between groups/partners”
+We built an app ↓↓↓ for organizing the flatsharing life equally between groups/partners
 
-Inspired from our private life →→→ and seeking for a equality ...
+Inspired from our private life →→→ and seeking for a equality
 
 what ↓↓↓ makes it unique is the option of a calculation based on income” →→→
 
@@ -32,13 +32,11 @@ the main technologies we used :
 
 react-native nodejs expressjs mongodb
 
-!! add mongodb icon
-
 we used react-native because we really wanted to build a mobile app.
 React native was the way to go and yeaaaah what we wanted discover →→→
 
 one of the challenges was
-to code the right algorithm for the splitting cost →→→
+to code the right algorithm for the splitting cost.
 
 We learned a lot about team communication, discovered tech related content but
 last but not least we didn't forget to have fun. ↓↓↓
