@@ -104,6 +104,17 @@
   box-shadow: none;
 }
 
+.wrapper__img-app {
+  position: relative;
+  bottom: 1.5rem;
+
+  .img-app {
+    // width: 14rem;
+    border-radius: 4px;
+    // height: 4rem;
+  }
+}
+
 .bad-mood {
   width: 10rem !important;
   height: 30rem !important;
