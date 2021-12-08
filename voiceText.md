@@ -1,3 +1,5 @@
+is everyone here, are we go to go?
+
 Hellou People , my name is Norman & our project is called teilo
 
 teilo →→→
@@ -5,10 +7,10 @@ teilo →→→
 organizing apartment life can be tricky
 
 did you ever had bad mood after splitting costs? ↓↓↓
-
+GIF
 →→→
 
-we might have found a solution
+We might have found a solution.
 
 We built an app ↓↓↓ for organizing the flatsharing life equally between groups/partners
 
@@ -18,6 +20,7 @@ what ↓↓↓ makes it unique is the option of a calculation based on income”
 
 yes, ↓↓↓ based on income →→→
 
+GIF
 →→→
 
 but who are the minds behind that ? ↓↓↓
@@ -40,15 +43,9 @@ to code the right algorithm for the splitting cost.
 
 We learned a lot about team communication, discovered tech related content but
 last but not least we didn't forget to have fun. ↓↓↓
-
+GIF
 →→→
 
-What we plan to do further in the future :
-
-implementing the pushing notifications feature and android styling.
-
-We would researching first & then break down the task building the functionality step by step.
-
-But now let‘s hand over to Tim, having a look to what we did during pre-production.
+But now let‘s hand over to Tim, having a look to what we did during the preparation
 
 Yo, Tim.
